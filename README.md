@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RidhamRupavatiya
-- 👀 I’m interested in Web Development and Android
+- 👀 I’m interested in Web Development and Android Development
 - 🌱 I’m currently learning Flutter,Dart and DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
