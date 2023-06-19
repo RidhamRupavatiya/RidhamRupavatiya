@@ -1,6 +1,6 @@
 - 👋 Hi, I’m RidhamRupavatiya
 - 👀 I’m interested in Web Development and Android Development
-- 🌱 I’m currently learning Flutter,Dart and DSA
+- 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
