@@ -1,5 +1,5 @@
 - 👋 Hi, I’m RidhamRupavatiya
-- 👀 I’m interested in Web Development and Android Development
+- 👀 I’m interested in Web Development and App Development
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
