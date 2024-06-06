@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Ridham Rupavatiya</h1>
 <h3 align="center">A passionate Full Stack developer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ridhamrupavatiya" alt="ridhamrupavatiya" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=RidhamRupavatiya&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 💬 Ask me about **Java, DSA, JavaScript, React, Angular,Node, MongoDB, SQL**
 
