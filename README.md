@@ -62,8 +62,8 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ridhamrupavatiya&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=242424&locale=en&layout=compact" alt="ridhamrupavatiya" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RidhamRupavatiya&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=242424&locale=en&layout=compact" alt="ridhamrupavatiya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ridhamrupavatiya&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=242424&locale=en" alt="ridhamrupavatiya" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RidhamRupavatiya&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=242424&locale=en" alt="ridhamrupavatiya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ridhamrupavatiya&theme=dark" alt="ridhamrupavatiya" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RidhamRupavatiya&theme=dark" alt="ridhamrupavatiya" /></p>
